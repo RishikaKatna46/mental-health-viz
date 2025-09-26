@@ -15,9 +15,7 @@ The analysis was performed in **Tableau** with dashboards, geographic maps, anim
 ## 🛠️ Tools Used
 - Tableau  
 - Data sources: OECD, UNDP, IMF, World Bank  
-
-## 📸 Dashboards
-(Add screenshots of Tableau dashboards here)  
+ 
 
 ---
 
